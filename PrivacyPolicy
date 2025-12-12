@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidad</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            line-height: 1.8;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background: #fff;
+        }
+        h1 {
+            color: #128C7E;
+            border-bottom: 3px solid #25D366;
+            padding-bottom: 15px;
+            margin-bottom: 30px;
+        }
+        h2 {
+            color: #128C7E;
+            margin-top: 35px;
+            margin-bottom: 15px;
+            font-size: 1.5em;
+        }
+        .date {
+            color: #666;
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+        .contact {
+            background: #f0f9f4;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 40px;
+            border-left: 4px solid #25D366;
+        }
+        ul {
+            margin-left: 25px;
+            margin-bottom: 15px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Política de Privacidad</h1>
+    <p class="date">Última actualización: 11 de diciembre de 2025</p>
+
+    <p>Bienvenido a nuestra Política de Privacidad. Este documento describe cómo recopilamos, usamos, almacenamos y protegemos tu información personal cuando interactúas con nosotros a través de WhatsApp Business.</p>
+
+    <h2>1. Información que Recopilamos</h2>
+    <p>Cuando te comunicas con nosotros a través de WhatsApp Business, podemos recopilar la siguiente información:</p>
+    <ul>
+        <li><strong>Número de teléfono:</strong> Tu número de WhatsApp para poder comunicarnos contigo.</li>
+        <li><strong>Nombre:</strong> El nombre que has configurado en tu perfil de WhatsApp o el que nos proporcionas.</li>
+        <li><strong>Mensajes:</strong> El contenido de los mensajes que nos envías, incluyendo texto, imágenes, documentos y otros archivos multimedia.</li>
+        <li><strong>Información de interacción:</strong> Registros de cuándo y cómo interactúas con nosotros.</li>
+    </ul>
+
+    <h2>2. Cómo Usamos tu Información</h2>
+    <p>Utilizamos la información recopilada para los siguientes propósitos:</p>
+    <ul>
+        <li><strong>Comunicación:</strong> Responder a tus consultas, preguntas y solicitudes.</li>
+        <li><strong>Servicio al cliente:</strong> Proporcionar soporte técnico y atención al cliente.</li>
+        <li><strong>Mejora de servicios:</strong> Analizar y mejorar nuestros servicios y la experiencia del usuario.</li>
+        <li><strong>Notificaciones:</strong> Enviarte actualizaciones, confirmaciones y otra información relacionada con nuestros servicios.</li>
+        <li><strong>Marketing (con tu consentimiento):</strong> Enviarte información sobre productos, servicios y promociones que puedan ser de tu interés.</li>
+    </ul>
+
+    <h2>3. Base Legal para el Procesamiento</h2>
+    <p>Procesamos tu información personal bajo las siguientes bases legales:</p>
+    <ul>
+        <li><strong>Consentimiento:</strong> Has dado tu consentimiento explícito al iniciar una conversación con nosotros.</li>
+        <li><strong>Ejecución de contrato:</strong> El procesamiento es necesario para cumplir con un contrato o servicio que has solicitado.</li>
+        <li><strong>Interés legítimo:</strong> Para mejorar nuestros servicios y mantener la seguridad de nuestras operaciones.</li>
+    </ul>
+
+    <h2>4. Compartir tu Información</h2>
+    <p>No vendemos, alquilamos ni compartimos tu información personal con terceros, excepto en las siguientes circunstancias:</p>
+    <ul>
+        <li><strong>Proveedores de servicios:</strong> Podemos compartir información con proveedores de confianza que nos ayudan a operar nuestro negocio (hosting, análisis, etc.).</li>
+        <li><strong>WhatsApp/Meta:</strong> Tu información se procesa a través de la plataforma de WhatsApp Business, sujeta a las políticas de privacidad de Meta.</li>
+        <li><strong>Requisitos legales:</strong> Cuando sea requerido por ley o para proteger nuestros derechos legales.</li>
+        <li><strong>Con tu consentimiento:</strong> En cualquier otro caso, solo compartiremos tu información con tu consentimiento explícito.</li>
+    </ul>
+
+    <h2>5. Seguridad de los Datos</h2>
+    <p>Tomamos medidas de seguridad técnicas y organizativas apropiadas para proteger tu información personal contra acceso no autorizado, pérdida, destrucción o alteración. Esto incluye:</p>
+    <ul>
+        <li>Encriptación de datos en tránsito y en reposo</li>
+        <li>Acceso restringido a información personal solo al personal autorizado</li>
+        <li>Revisiones regulares de nuestras prácticas de seguridad</li>
+        <li>Uso de servicios seguros y confiables para el almacenamiento de datos</li>
+    </ul>
+
+    <h2>6. Retención de Datos</h2>
+    <p>Conservamos tu información personal solo durante el tiempo necesario para cumplir con los propósitos descritos en esta política o según lo requiera la ley. Los criterios para determinar los períodos de retención incluyen:</p>
+    <ul>
+        <li>El tiempo que mantienes una relación comercial con nosotros</li>
+        <li>Requisitos legales o regulatorios de retención de datos</li>
+        <li>Necesidades operativas de nuestro negocio</li>
+    </ul>
+
+    <h2>7. Tus Derechos</h2>
+    <p>Tienes los siguientes derechos respecto a tu información personal:</p>
+    <ul>
+        <li><strong>Derecho de acceso:</strong> Solicitar una copia de la información personal que tenemos sobre ti.</li>
+        <li><strong>Derecho de rectificación:</strong> Solicitar la corrección de información inexacta o incompleta.</li>
+        <li><strong>Derecho de eliminación:</strong> Solicitar la eliminación de tu información personal.</li>
+        <li><strong>Derecho de restricción:</strong> Solicitar la limitación del procesamiento de tu información.</li>
+        <li><strong>Derecho de portabilidad:</strong> Recibir tu información en un formato estructurado y de uso común.</li>
+        <li><strong>Derecho de oposición:</strong> Oponerte al procesamiento de tu información personal.</li>
+        <li><strong>Derecho a retirar el consentimiento:</strong> Retirar tu consentimiento en cualquier momento.</li>
+    </ul>
+    <p>Para ejercer cualquiera de estos derechos, contáctanos utilizando la información proporcionada en la sección de contacto.</p>
+
+    <h2>8. Cookies y Tecnologías de Seguimiento</h2>
+    <p>WhatsApp Business no utiliza cookies tradicionales. Sin embargo, la plataforma de WhatsApp puede recopilar cierta información técnica automáticamente, como se describe en la Política de Privacidad de WhatsApp.</p>
+
+    <h2>9. Transferencias Internacionales</h2>
+    <p>Tu información puede ser transferida y procesada en países diferentes al tuyo. Nos aseguramos de que estas transferencias cumplan con las leyes aplicables de protección de datos y de que tu información reciba un nivel adecuado de protección.</p>
+
+    <h2>10. Menores de Edad</h2>
+    <p>Nuestros servicios no están dirigidos a menores de 16 años. No recopilamos intencionalmente información personal de menores. Si descubrimos que hemos recopilado información de un menor, la eliminaremos de inmediato.</p>
+
+    <h2>11. Cambios a esta Política</h2>
+    <p>Podemos actualizar esta Política de Privacidad ocasionalmente. Te notificaremos sobre cambios significativos publicando la nueva política en esta página y actualizando la fecha de "Última actualización". Te recomendamos revisar esta política periódicamente.</p>
+
+    <h2>12. Enlaces a Terceros</h2>
+    <p>Nuestros mensajes pueden contener enlaces a sitios web de terceros. No somos responsables de las prácticas de privacidad de estos sitios. Te recomendamos leer las políticas de privacidad de cualquier sitio que visites.</p>
+
+    <div class="contact">
+        <h2>13. Contacto</h2>
+        <p>Si tienes preguntas, comentarios o preocupaciones sobre esta Política de Privacidad o sobre cómo manejamos tu información personal, puedes contactarnos:</p>
+        <ul>
+            <li><strong>Email:</strong> privacidad@tuempresa.com</li>
+            <li><strong>Teléfono:</strong> +52 123 456 7890</li>
+            <li><strong>Dirección:</strong> Calle Principal 123, Monterrey, Nuevo León, México</li>
+            <li><strong>WhatsApp:</strong> [Tu número de WhatsApp Business]</li>
+        </ul>
+    </div>
+
+    <hr style="margin: 40px 0; border: none; border-top: 1px solid #eee;">
+    <p style="text-align: center; color: #666; font-size: 0.9em;">© 2025 Tu Empresa. Todos los derechos reservados.</p>
+</body>
+</html>
